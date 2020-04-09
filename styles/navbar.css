@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+}
+
