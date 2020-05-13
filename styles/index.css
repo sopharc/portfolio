@@ -3,5 +3,12 @@ html {
 background: #eae3db;
 }
 
+.homeimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 750px;
+  max-height: 750px;
+}
 
-@import 'navbar.css';
